@@ -3,7 +3,7 @@
 This project analyzes whether overtime is associated with employee attrition and highlights retention risk indicators using statistical analysis.
 
 ## Files
-- `employee_attrition_analysis.ipynb` – full notebook analysis
+- `Burnout_retention_analysis.ipynb` – full notebook analysis
 - `employee_attrition_executive_summary.pdf` – one-page executive summary
 
 ## Methods
