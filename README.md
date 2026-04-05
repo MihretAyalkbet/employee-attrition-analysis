@@ -4,7 +4,7 @@ This project analyzes whether overtime is associated with employee attrition and
 
 ## Files
 - `Burnout_retention_analysis.ipynb` – full notebook analysis
-- `employee_attrition_executive_summary.pdf` – one-page executive summary
+- `Burnout_retention_executive_summary.pdf` – one-page executive summary
 
 ## Methods
 - Descriptive statistics
